@@ -1,0 +1,7 @@
+C:\Users\NK 2316\Desktop\veerapat12\veerapat12\bin\Debug\veerapat12.exe.config
+C:\Users\NK 2316\Desktop\veerapat12\veerapat12\bin\Debug\veerapat12.exe
+C:\Users\NK 2316\Desktop\veerapat12\veerapat12\bin\Debug\veerapat12.pdb
+C:\Users\NK 2316\Desktop\veerapat12\veerapat12\obj\Debug\veerapat12.csproj.AssemblyReference.cache
+C:\Users\NK 2316\Desktop\veerapat12\veerapat12\obj\Debug\veerapat12.csproj.CoreCompileInputs.cache
+C:\Users\NK 2316\Desktop\veerapat12\veerapat12\obj\Debug\veerapat12.exe
+C:\Users\NK 2316\Desktop\veerapat12\veerapat12\obj\Debug\veerapat12.pdb
